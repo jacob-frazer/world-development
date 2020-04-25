@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c269a15-f9a0-4088-abb9-28540e612c0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yr5nR4dQDSr2Icf22DpUOLWZYK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../world_development_regression" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.world_development">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="world_development" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="football_analysis" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="football_analysis" />
+      <module name="world_development" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="onion_predictor" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="onion_predictor" />
+      <module name="world_development" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simpleScalaSpark" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="simpleScalaSpark" />
+      <module name="world_development" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="world_development" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="world_development" />
+      <module name="world_development" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.world_development" />
+        <item itemvalue="Application.football_analysis" />
+        <item itemvalue="Application.onion_predictor" />
+        <item itemvalue="Application.simpleScalaSpark" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c269a15-f9a0-4088-abb9-28540e612c0b" name="Default Changelist" comment="" />
+      <created>1583688038139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583688038139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2167" y="311" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584791228483">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="2167" y="311" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.3378.1440@0.0.3378.1440" timestamp="1584791228483" />
+    <state x="1513" y="260" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583688402918">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1513" y="260" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3378.1440@0.0.3378.1440" timestamp="1583688402918" />
+    <state x="1689" y="360" key="FileChooserDialogImpl" timestamp="1586779189719">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1689" y="360" key="FileChooserDialogImpl/0.0.3378.1440@0.0.3378.1440" timestamp="1586779189719" />
+    <state width="1340" height="309" key="GridCell.Tab.0.bottom" timestamp="1586700378100">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state width="1340" height="309" key="GridCell.Tab.0.bottom/0.0.3378.1440@0.0.3378.1440" timestamp="1586700378100" />
+    <state width="1340" height="309" key="GridCell.Tab.0.center" timestamp="1586700378097">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state width="1340" height="309" key="GridCell.Tab.0.center/0.0.3378.1440@0.0.3378.1440" timestamp="1586700378097" />
+    <state width="1340" height="309" key="GridCell.Tab.0.left" timestamp="1586700378080">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state width="1340" height="309" key="GridCell.Tab.0.left/0.0.3378.1440@0.0.3378.1440" timestamp="1586700378080" />
+    <state width="1340" height="309" key="GridCell.Tab.0.right" timestamp="1586700378098">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state width="1340" height="309" key="GridCell.Tab.0.right/0.0.3378.1440@0.0.3378.1440" timestamp="1586700378098" />
+    <state x="1463" y="193" key="SettingsEditor" timestamp="1583690847101">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1463" y="193" key="SettingsEditor/0.0.3378.1440@0.0.3378.1440" timestamp="1583690847101" />
+    <state x="1679" y="442" key="com.intellij.ide.util.TipDialog" timestamp="1584204290001">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1679" y="442" key="com.intellij.ide.util.TipDialog/0.0.3378.1440@0.0.3378.1440" timestamp="1584204290001" />
+    <state x="83" y="251" key="new project wizard" timestamp="1584555071594">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="83" y="251" key="new project wizard/0.0.3378.1440@0.0.3378.1440" timestamp="1584555071594" />
+  </component>
+</project>
